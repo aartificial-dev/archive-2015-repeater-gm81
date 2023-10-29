@@ -7,9 +7,9 @@ ________________
 
 **Language - Game Maker Language**
 
-**Source Code - Available: Latest version**
+**Source Code - Available: Latest version (As GM:S1 project)**
 
-**Executables - Multiple versions up to latest**
+**Executables - Multiple old versions**
 
 **Development Date - 2016 to 2019**
 
